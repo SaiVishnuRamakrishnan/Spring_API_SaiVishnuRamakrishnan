@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: Discovery_Server_SaiVishnuRamakrishnan
+server:
+  port: 8761
+eureka:
+  client:
+    register-with-eureka: false
